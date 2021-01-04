@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "779023945478",
+    "project_id": "ezlogger1",
+    "storage_bucket": "ezlogger1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779023945478:android:a31ccaf6f5cc91f89fd887",
+        "android_client_info": {
+          "package_name": "com.paz.ezloggerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779023945478-p8esmr3p3m5gnith0a8kincjjss03jnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paz.ezloggerview",
+            "certificate_hash": "1c6da8023a5edf1c081bc07d327de494f369a12b"
+          }
+        },
+        {
+          "client_id": "779023945478-c5clah219b8s26dphe8v5enafkccpnpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlpT7k3mTPAxiTjGA4BHktilyhejok3k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779023945478-c5clah219b8s26dphe8v5enafkccpnpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779023945478:android:ef2cdda42fa29de09fd887",
+        "android_client_info": {
+          "package_name": "com.paz.logger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779023945478-c5clah219b8s26dphe8v5enafkccpnpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlpT7k3mTPAxiTjGA4BHktilyhejok3k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779023945478-c5clah219b8s26dphe8v5enafkccpnpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779023945478:android:544db1779de662e59fd887",
+        "android_client_info": {
+          "package_name": "com.paz.loggerlib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779023945478-c5clah219b8s26dphe8v5enafkccpnpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlpT7k3mTPAxiTjGA4BHktilyhejok3k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779023945478-c5clah219b8s26dphe8v5enafkccpnpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

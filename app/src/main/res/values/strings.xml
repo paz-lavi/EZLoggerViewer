@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">EZLogger Viewer</string>
+    <string name="logout">LOGOUT</string>
+    <string name="search">SEARCH</string>
+    <string name="selectDates">Select Dates</string>
+    <string name="dates">%1$s - %2$s</string>
+    <string name="name">Name: %1$s</string>
+    <string name="email">Email: %1$s</string>
+    <string name="phoneNumber">Phone Number: %1$s</string>
+    <string name="devKey">Dev Key: %1$s</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="ezLoggerId">EZ Logger ID</string>
+    <string name="ezLoggerIdVal">EZ Logger ID: %1$s</string>
+    <string name="costumerId">Costumer ID</string>
+    <string name="costumerIdVal">Costumer ID: %1$s</string>
+    <string name="sessionCounter">Session Counter</string>
+    <string name="sessionCounterVal">Session Counter: %1$d</string>
+    <string name="manufacturerName">Manufacturer</string>
+    <string name="manufacturerNameVal">Manufacturer: %1$s</string>
+    <string name="date">Date</string>
+    <string name="packageName">Package Name</string>
+    <string name="packageNameVal">Package Name: %1$s</string>
+    <string name="dateVal">date: %1$s</string>
+    <string name="deviceLang">Device Language: %1$s</string>
+    <string name="gpsEnable">GPS Enable: %1$s</string>
+    <string name="btEnable">Bluetooth Enable: %1$s</string>
+    <string name="connectedToWifi">Connected To Wifi: %1$s</string>
+    <string name="ringerMode">Ringer Mode: %1$s</string>
+    <string name="batteryLevel">Battery Level: %1$d</string>
+    <string name="brightness">brightness: %1$d</string>
+    <string name="greaterThan">Greater Than</string>
+    <string name="lessThan">Less Than</string>
+    <string name="equalsTo">Equals To</string>
+    <string name="showLogs">Show Logs</string>
+    <string name="showDetails">Show Details</string>
+    <string name="hideDetails">Hide Details</string>
+    <string name="logs">Logs</string>
+    <string name="searchDate">Search Date: %1$s</string>
+
+    <string name="dateBetween">Date Between: %1$s -  %2$s</string>
+    <string name="searchAgain">Search Again</string>
+    <string name="understand">I Understand</string>
+    <string name="supporting_text">You can seacrh multi values only on one parmeter</string>
+    <string name="errorMS" />
+    <string name="errorTitle">Problem</string>
+    <string name="export">export</string>
+
+</resources>
