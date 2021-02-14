@@ -39,7 +39,11 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        accountFragment = null;
+        savedFragment = null;
+        logoutCallback = null;
+        Log.d("pttt", "fragments counts = " + getSupportFragmentManager().getFragments().size());
+        getSupportFragmentManager().getFragments().clear();
         // setContentView(R.layout.activity_main);
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         View view = binding.getRoot();
